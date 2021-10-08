@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Arreya
-- 👀 I'm an aspiring frontend developer who loves animal documentaries, collecting recipes and building cool things with 1s and 0s
-- 🌱 I’m currently learning React
+- 👀 I'm a developer who loves animal documentaries, solving problems and collecting food recipes. 
+- 🌱 I’m currently learning Java, MySQL, and API design with Spring Boot 
 - 📫 LinkedIn: www.linkedin.com/in/arreyaahrom
 
